@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of pardon and grace to the people of Scotland</title>
+            <title>Orders in Council. 1654-04-12</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80966</idno>
+            <idno type="STC">Wing C7135</idno>
+            <idno type="STC">ESTC R231869</idno>
+            <idno type="EEBO-CITATION">99900075</idno>
+            <idno type="PROQUEST">99900075</idno>
+            <idno type="VID">137266</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137266)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2510:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of pardon and grace to the people of Scotland</title>
+                  <title>Orders in Council. 1654-04-12</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[[Leith] Printed at London, and re-printed at Leith:</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Wednesday 12. April, 1654.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>P. 269 misnumbered 265.</note>
+                  <note>Steele notation: Arms 225; 1) de- day 2) Charles 3) thousand Lord.</note>
+                  <note>DFo copy, reel 2510, is damaged affecting text.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Estates (Law) --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:137266:1" rendition="simple:additions"/>
+            <head>An <hi>ORDINANCE</hi> of PARDON and GRACE to the People of SCOTLAND.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Highneſſe the <hi>Lord Protector</hi> of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging, being de<g ref="char:EOLhyphen"/>ſirous, that the mercies which it hath pleaſed God to give to this Nation, by the ſucceſſes of their Forces in the late War in <hi>Scotland,</hi> ſhould be improved for the good and advantage of both Nations, and the People of <hi>Scotland</hi> made equal ſharers with thoſe of <hi>England,</hi> in the preſent ſet<g ref="char:EOLhyphen"/>tlement of Peace, Liberty and Propertie, with all other Privileges of a Free People, Doth Ordain and Declare, And be it Ordained and Declared by His Highneſſe the <hi>Lord Protector,</hi> with the conſent of His Council, That all perſons of the Scottiſh Nation, of what degree or quality ſoever they or any of them are (except the perſons hereafter in this Ordinance particularly excepted) ſhall be, and are hereby, and from and after the firſt day of <hi>May,</hi> in the year, One thouſand ſix hundred fifty four, Freed, Acquitted and Diſcharged, from all forfeitures, pains, penalties, mulcts, <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>rie, reſtraints, impriſonment or impriſonments, puniſhment or puniſhments whatſoever (other then is hereafter in this Ordinance expreſſed) for any <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y them, or any of them committed or done by Sea or Land, in relation to the late War, or any preceding Wars between the two Nations; And that <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> aforeſaid, there ſhall be from and after the ſaid firſt day of <hi>May,</hi> aforeſaid, no Sequeſtration, Confiſcation, Fine, Penalty, Forfeiture or Puniſhment, <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> them, or any of them, (otherwiſe than as is hereafter in this Ordinance expreſſed) but the ſame ſhall be put in perpetuall Oblivion.</p>
+            <p>
+               <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and perſonal of all perſons of the Scottiſh Nation (except as is hereafter in this Ordinance excepted and provided) ſhall be, and <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>h, freed, diſcharged and acquitted, from all Sequeſtrations, Confiſcations, Fines, Penalties, and Forfeitures whatſoever, for any mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>f them committed or done, in relation to the aforeſaid Wars between the two Nations.</p>
+            <p>
+               <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> out of this preſent Ordinance, and all benefit thereof, <hi>Henrietta Maria,</hi> the Relict and late Queen of the late King <hi>Charls</hi> Deceaſed; <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>James Stuart</hi> their ſecond ſon, and all the Honors, Mannors, Caſtles, Houſes, Meſſuages, Foreſts, Chaſes, Parks, and Lands, and <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Royalties, Privileges, Franchiſes, Immunities, Rents, and Appurtinances to them, or any of them in <hi>Scotland,</hi> belonging or <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ed or enjoyed by them, or any of them, as part or parcel thereof; and alſo all the Goods and Chattels, and all the Eliates, both <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>retofore belonging to the late King <hi>Charls</hi> Deceaſed, either in right of the Crown of <hi>Scotland,</hi> or in any other right or capacitie, or <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>t and late Queen of the ſaid King, or unto <hi>Charls Stuart</hi> their eldeſt ſon, or <hi>James Stuart</hi> their ſecond ſon, or unto any other the <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> King <hi>Charls,</hi> or otherwiſe belonging unto them, or any of them, and which were in the actual ſeizin or poſſeſſion of them, or any <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their Tenants, Agents, Servants, Truſtees, Officers, or Miniſters in their Right, and for their uſe, or in truſt for them, or any of <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>th day of <hi>March,</hi> in the year of our Lord, One thouſand ſix hundred twenty and five, or at any time ſince, or for which they, or <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>wered the profits, or might, or ought to have received the ſame in the year aforeſaid, or at any time ſince, and all reverſions o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ers of any Eſtate or <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tes, to them, or any of them belonging or appertaining, and that free from all manner of Eſtates, Titles, Intereſts, Debts, Charges, and incumbrances whatſoever, wherewith the ſaid Lands or premiſſes, or any of them ſtand or ſtood charged or chargeable with, or are pretended to ſtand charged or chargeable with, at any time ſince the firſt day of <hi>May,</hi> One thouſand ſix hundred fourty two, and not before. And alſo excepted out of this preſent Ordinance, and all benefit thereof, <hi>James</hi> late Duke of <hi>Hamilton,</hi> deceaſed, <hi>William,</hi> late Duke of <hi>Hamilton,</hi> deceaſed, <hi>John</hi> Earl of <hi>Crawford-Lindſey, James</hi> Earl of <hi>Calender,</hi> Earl Marſhall, Earl of <hi>Kedey, John</hi> Earl of <hi>Lawderdail, John</hi> Earl of <hi>Lowdoun,</hi> Earl of <hi>Soaforth,</hi> Earl of <hi>Ath<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> Viſcount <hi>Kenmure,</hi> Lord <hi>Lorne,</hi> eldeſt ſon of the Marqueſſe of <hi>Argile,</hi> Lord <hi>Machlin,</hi> eldeſt ſon of the Earl of <hi>Lowdoun,</hi> Lord <hi>Montgomerie,</hi> eldeſt ſon of the Earl of <hi>Egglintoun, George</hi> Lord <hi>Spynie,</hi> Lord <hi>Cranſton,</hi> Lord <hi>Sinclair, Thomas Dalyel,</hi> late Major General of the Foot in the Scottiſh Army, <hi>John Middletoun,</hi> late Lieutenant General of the Horſe in the Scottiſh Army, <hi>James</hi> Viſcount <hi>Newburgh,</hi> Lord <hi>Bargany,</hi> Sir <hi>Thomas Thomſon, James E<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>meſton,</hi> Lord of <hi>Womat,</hi> Lord <hi>Napier, William</hi> Earl of <hi>Glencarn</hi> and all the Honors, Manors, Caſtles, Houſes, Meſſuages, Foreſts, Chaſes, Parks, and Lands, and all Tenements and Hereditaments, Royalties, Privi<g ref="char:EOLhyphen"/>leges, Franchiſes, Immunities, Rents and Appurtenances to them, or any of them, belonging, or appertaining or on the eighteenth day of <hi>April,</hi> in the year of our Lord, One thouſand ſix hundred fourtie eight, lawfully uſed or enjoyed, with them or any of them, as part or parcel thereof, and alſo all the goods, and chattels, and all the eſtates, both real and perſonal, belonging unto the ſaid <hi>James,</hi> late Duke of <hi>Hamilton Will.</hi> late Duke of <hi>Hamilton, John</hi> E. of <hi>Crawford Lindſey, James</hi> E. of <hi>Calender,</hi> Earl <hi>Marſhal,</hi> Earl of <hi>Kelley, John</hi> Earl of <hi>Lawderdaile, John</hi> Earl of <hi>Lowdoun,</hi> Earl of <hi>Seaforth,</hi> Earl of <hi>Athole,</hi> Viſcount <hi>Kenmure,</hi> Lord <hi>Lorne,</hi> Lord <hi>Machlin,</hi> Lord <hi>Montgomery, George</hi> Lord <hi>Spynie,</hi> Lord <hi>Cranſton,</hi> Lord <hi>Sinclaire, Thomas Dalyell, John Middletoune, James</hi> Viſcount <hi>Newburgh,</hi> Lord <hi>Bargany,</hi> Sir <hi>Thomas Thomſon, James Edmeſton,</hi> Lord <hi>Napeir, William</hi> Earl of <hi>Glencai<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ne,</hi> or any of them, and which were in the actuall s;eizin or poſſeſ<g ref="char:EOLhyphen"/>ſion of them, or any of them, or of their, or either of their Tenants, Agents, Servants, Truſtees, Omcers, or Miniſters, in their right, and for their uſe, or in truſt for them or any of them, on the eighteenth day of <hi>April,</hi> in the year of our Lord, One thouſand ſix hundred fourtie eight, or at any time ſince, or for which they, or any of them, have of right been anſwered the profits, or might or ought to have received the ſame, at the time aforeſaid, or at any time ſince, and all Reverſions or remainders of any Eſtate or Eſtates, to them, or any of them belonging, or appertaining, and that free from all and all manner of Eſtates, Titles, Intereſts, Debts, Charges, and Incumbrances whatſoever, where with the ſaid Lands and premiſſes or any of them, ſtand, or ſtood charged or chargeable with, or are pretended to ſtand charged or chargeable with, by force of any Act or Acts, Deed, Grant, or other thing done by any of the Perſons before named, at any time ſince the ſaid eighteenth day of <hi>April,</hi> One thouſand ſix hundred fourty and eight, and not before. And alſo excepted out of this preſent Ordinance, and all benefit thereof, all the Eſtate, right, intereſt, claim and demand, of <hi>James</hi> Lord <hi>Mordington,</hi> of, in, or to, the Maudlain Field, Sunck, Cony-garth, Conſtables-Batt, Two Wa<g ref="char:EOLhyphen"/>ter-mils, and a Wind-mil lying within <hi>Barwick</hi> bounds. And alſo excepted out of this preſent Ordinance, and all benefit thereof, all and all manner of Eſtates, Titles, Intereſts, Debts, Charges, and Incumbrances whatſoever, claimed out of any the Eſtate, or Eſtates of any of the perſons excepted as aforeſaid, or of any other perſon or perſons as ſureties for them, or any of them, by, for, or in right, and to the uſe of any Perſon or Perſons whatſoever, who ſitting as a Member or Members of the late Parliament of <hi>Scotland,</hi> in the Year, One thouſand ſix hundred fourty and eight, did not proteſt in the great Proteſtation made in the ſaid Parliament, againſt the proceedings of the ſaid Parliament, by which the Army was raiſed under <hi>James</hi> Duke <hi>Hamilton,</hi> or that Invaded <hi>England</hi> with the ſaid <hi>James</hi> Duke <hi>Hamilton,</hi> in the ſaid year, or that ſate in the late Parliament, or Committee of Eſtates of <hi>Scotland,</hi> from and after the Coronation of <hi>Charls Stuart,</hi> in the year, One thouſand ſix hundred fiftie and one, or that ſince the Battle of <hi>Dumbar,</hi> on the third day of <hi>September,</hi> One thouſand ſix hundred and fiftie,
+<pb facs="tcp:137266:2"/>ſerved in Arms in <hi>Scotland</hi> under the ſaid <hi>Charles Stuart,</hi> or any Commiſſionated by him, or his Authority, or that invaded <hi>England</hi> with the ſaid <hi>Charles Stuart,</hi> or any of his Forces, in the ſaid year, One thouſand ſix hundred fiftie and one, which ſaid Eſtates, Titles, Intereſts, Debts, Charges and Incumbrances, are by Authority aforeſaid, releaſed, and diſcharged (ſuch onely excepted, who have deſerted the ſaid <hi>Charles Stuart,</hi> and not born Arms againſt the Parlia<g ref="char:EOLhyphen"/>ment, ſince the ſaid third day of <hi>September,</hi> One thouſand ſix hundred and fiftie; as alſo ſuch whoſe merits and ſervices to this Commonwealth, have rendred them capable of being taken into a more favourable conſideration by his Highneſſe.)</p>
+            <p>Provided alwayes, And be it Ordained, That all and every Perſon and Perſons whatſoever, claiming any Eſtate, Title, Intereſt, Debts, Charge or Incumbrance, out of any the Eſtate or Eſtates, excepted as aforeſaid, do and ſhall within threeſcore dayes after Publick Proclamation made of this Ordinance, in the Countie where the Perſon making ſuch claim doth live, enter his and their reſpective claims, with <hi>John Swinton,</hi> of <hi>Swinton</hi> Eſq; <hi>William Lawrence,</hi> Eſq; <hi>George Smith,</hi> Eſq; Sir <hi>James Mac-Dowel</hi> of <hi>Garthland, Samuel Disbrow, John Thompſon,</hi> Eſquires, or any three of them, and make the truth and reality of them ſufficiently appear un<g ref="char:EOLhyphen"/>to the ſaid <hi>John Swinton, William Lawrence, George Smith,</hi> Sir <hi>James Mac-dowel, Samuel Disbrow,</hi> and <hi>John Thompſon,</hi> or any three of them, within four Moneths after ſuch entry made, and obtain from them or any three of them a Certificate of their allowance of ſuch Claim and Claims, and that in default there<g ref="char:EOLhyphen"/>of, the ſaid Eſtates, Titles, Intereſts, Debts, Charges, and Incumbrances, be, and the ſame are hereby Declared, as well to Sureties as Principals, diſcharged, and made null and void; Provided alſo that all and every the Debts, Charges, and Incumbrances, upon all and every the Eſtate and Eſtates aforeſaid, which ſhall be to allowed, ſhall be paid and ſatisfied by ſuch wayes, and in ſuch manner onely, as ſhall be hereafter Declared and appointed by his Highneſſe the <hi>Lord Protector,</hi> by and with the conſent of his Councill. And it is further Ordeined by the Authority aforeſaid; That Lands of the clear yearly value of four hundred pounds ſterling, over and above all charges, and repriſes, be ſetled upon the Lady <hi>Anne Hamilton,</hi> eldeſt Daughter of the ſaid <hi>James</hi> Duke <hi>Hamilton,</hi> and her Heirs, charged with the payment of the yearly Rent of twenty pounds Sterling, to His Highneſſe the <hi>Lord Protector,</hi> and his Succeſſors for ever. And that Lands of the yearly value of two hundred pounds Sterling, over and above all charges and repriſes, be ſetled upon the Lady <hi>Suſan Hamilton,</hi> one other of the Daughters of the ſaid <hi>James</hi> Duke <hi>Hamilton,</hi> and her Heirs, out of the Eſtate of the ſaid <hi>James</hi> and <hi>William</hi> late Duke <hi>Hamilton,</hi> charged with the payment of the yearly Rent of ten pounds Sterling, to his Highneſſe the <hi>Lord Protector</hi> and his Succeſſors for ever. And that Lands of the yearly value of four hundred pounds Sterling, over and above all charges and repriſes, be ſetled upon <hi>Elizabeth</hi> Dutches of <hi>Hamilton</hi> Widow, and Relict of <hi>William</hi> late Duke <hi>Hamilton</hi> deceaſed, for term of her naturall life, and after her deceaſe, to the four Daughters of the ſaid <hi>William,</hi> by the ſaid Dutches, to be equally divided amongſt them, and to their Heirs for ever, out of the Eſtate of the ſaid <hi>William</hi> or of <hi>James</hi> late Duke <hi>Hamilton,</hi> charged with the payment of the yearly Rent of twenty pounds Sterling, to His Highneſſe the <hi>Lord Protector</hi> and his Succeſſors for ever. And that Lands of the clear yearly value of four hundred pounds Sterling, over and above all charges and repriſes, be likewiſe ſetled out of the Eſtate of the ſaid <hi>John</hi> Earl <hi>Crawford,</hi> upon Counteſs of <hi>Crawford,</hi> his now Wife for her life, and after her deceaſe, upon the iſſue of her body, by the ſaid Earl begotten, and their Heirs, charged with the payment of the yearly Rent of twenty pounds Sterling, to His Highneſſe the <hi>Lord Protector</hi> and his Succeſſors for ever. And that Lands of the clear yearly value of four hundred pounds Sterling, over and above all charges and repriſes, be ſetled upon Counteſſe of <hi>Lowdoun</hi> and her Heirs for ever, out of the Eſtate of the ſaid <hi>John</hi> Earl of <hi>Lowdoun,</hi> charged with the pay<g ref="char:EOLhyphen"/>ment of the yearly Rent of twentie pounds Sterling, to his Highneſs the <hi>Lord Protector</hi> and his Succeſſors for ever: She the ſaid Counteſs of <hi>Loudown</hi> accept<g ref="char:EOLhyphen"/>ing thereof, in lieu of all Joyntore, Dower, or any other Intereſt or Title the hath, or may cla<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, in poſſeſſion, reverſion, or remainder of, in, or to the Eſtate of the ſaid <hi>John</hi> Earl of <hi>Lowdoun,</hi> or Lord <hi>Mach<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in,</hi> or of e<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther of them, or by them, or either of them, claimed a right of the ſaid Counteſs, and re<g ref="char:EOLhyphen"/>leaſing the ſame by the time hereafter in this Ordinance appointed, and in ſuch manner as is herein directed; which releaſe ſhall be good and effectuall in Law, to bar the ſaid Counteſs of <hi>Lowdoun</hi> and her Heirs. And be it further Ordeined, That the Counteſs of <hi>Calender,</hi> ſhall hold and enjoy all and every the Lands, Tenements, and Hereditaments, conveyed for her Joynture, from late Earl of <hi>Dumfermling,</hi> her former Husband. And that Lands of the clear yearly value of two hundred pounds Sterling, over and above all charges and repriſes, be ſetled upon <hi>Mary</hi> eldeſt Daughter of Earl <hi>Mar<g ref="char:EOLhyphen"/>ſhal,</hi> and her Heirs; And that La<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds of the yearly value of one hundred and fifty pounds Sterling, over and above all charges and repriſes, be ſetled on each of the other Daughters of the ſaid Earl <hi>Marſhal, vix. Elizabeth, Iſabel,</hi> and <hi>Jane,</hi> and their Heirs reſpectively, out of the Eſtate of the ſaid Earl <hi>Marſhall,</hi> excepted as aforeſaid, charged with the payment of the yearly Rent of thirty two pounds ten ſhillings Sterling, unto his Highneſſe the <hi>Lord Protector</hi> and his Succeſſors for ever, to be apportioned in the Grants of the reſpective Lands rateably. And that Lands of the clear yearly value of three hundred pounds Sterling, over and above all repriſes, be ſetled upon Counteſſe of <hi>Lowderdaile,</hi> and the Heirs of the Body of <hi>John</hi> Earl of <hi>Lowderdaile,</hi> of the body of the ſaid Counteſs begotten, or to be begotten, out of the Lands and Eſtate of the ſaid <hi>Iohn</hi> Earl of <hi>Lowderdaile,</hi> excepted as afore<g ref="char:EOLhyphen"/>ſaid, charged with the payment of the yearly Rent of fifteen pounds Sterling, to His Highneſſe the <hi>Lord Protector</hi> and his Succeſſors for ever. And that Lands of the clear yearly value of two hundred pounds Sterling, over and above all repriſes, be ſetled upon the now wiſe of the ſaid Lord <hi>Cranſton,</hi> of the Heirs of the Body of the ſaid Lord <hi>Cranſton,</hi> of the Body of his ſaid Wife begotten, or to be begotten, out of the Lands and Eſtates of the ſaid Lord <hi>Cranſton,</hi> excepted as aforeſaid, charged with the payment of the yearly Rent of ten pounds Sterling, unto His Highneſs the <hi>Lord Prote<g ref="char:EOLhyphen"/>ctor,</hi> and his Succeſsors for ever. And that Lands of the clear yearly value of two hundred and fifty pounds Sterling, over and above all repriſes, be ſetled upon the now Wife of Lord <hi>Bargany,</hi> and the Heirs of the Body of the ſaid Lord <hi>Bargany,</hi> on the body of his ſaid now Wife begotten, or to be begotten, out of the Lands and Eſtate of the ſaid Lord <hi>Bargany,</hi> excepted as aforeſaid, charged with the payment of the yearly Rent of twelve pounds and ten ſhillings Sterling money, unto his Highneſs the <hi>Lord Protector,</hi> and his Succeſſors for ever. And that Lands, of the clear yearly value of one hun<g ref="char:EOLhyphen"/>dred and twenty pounds ſterling, over and above all repriſes, be ſetled upon the now Wife of the ſaid Sir <hi>Thomas Thompſon,</hi> and the Heirs of the ſaid Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Thompſon,</hi> of the Body of his ſaid now Wife begotten, or to be begotten, out of the Eſtate of the ſaid Sir <hi>Thomas Thompſon;</hi> excepted as aforeſaid, charged with the yearly Rent of ſix pounds, to be paid unto His Highneſſe the <hi>Lord Protector,</hi> and his Succeſſors for ever. Provided that before any ſuch ſettlement ſhall be made unto any the Perſons above mentioned, out of the Lands excepted by this Ordinance, or that any of the ſaid Perſons ſhall be permitted to enjoy any benefit by any the clauſes aforeſaid, all and every the ſaid Perſon and Perſons, being the now Wife, Childe, or Children of any the Perſons excepted and excluded from the benefit of this Ordinance, ſhall before the five and twentieth day of <hi>December,</hi> which ſhall be in the year of our LORD, One thouſand ſix hundred fiftie four, by Deed, under her or their Hands and Seals reſpectively, Releaſe all her and their Claim, Title, and demand of Dower, Joynture, and other Intereſt in poſſeſſion, re<g ref="char:EOLhyphen"/>verſion, or remainder, of, in, or to all and every the Lands, Tenements, and Hereditaments, of the Husband or Father of ſuch Perſon releaſing; And that all and every ſuch releaſe, being atteſted under the Hands of two credible Witneſſes, and delivered unto the Perſons before in this Ordinance appointed to receive and de<g ref="char:EOLhyphen"/>termine claims, or any three of them, ſhall be, and is, and are hereby Declared to be valid and effectuall in Law, to bar ſuch Perſon and Perſons ſo releaſing, from claiming any Right, Title, Intereſt or demand, of, in, or to all and every the Lands, Tenements, and Hereditaments, of the Husband or Father of ſuch Perſon or Per<g ref="char:EOLhyphen"/>ſons releaſing notwithſtanding the coverture, minority, infancy, or other diſability of the Perſon or Perſons ſo releaſing, other then ſuch as ſhall be ſetled upon her or them, in purſuance of the Proviſion aforeſaid. And in default of ſuch releaſe, to be made as aforeſaid, all and every the Perſon and Perſons aforeſaid, ſo making de<g ref="char:EOLhyphen"/>fault, ſhall be from thenceforth for ever debarred, and excluded from any benefit or advantage by this Ordinance, or any thing therein contained.</p>
+            <p>Provided alſo that all and every the Lands and Eſtate which ſhall by force of this Ordinance be ſet out and ſetled, as aforeſaid, for the proviſion of the Wife or Children of any the Perſons excepted, as aforeſaid, ſhall nevertheleſſe be liable unto the ſatisfaction of the juſt and proper Debts of the reſpective Perſon and Per<g ref="char:EOLhyphen"/>ſons, out of whoſe Eſtate the ſame is ſo ſetled (in caſe all the reſt of his or their reſpective Eſtate and Eſtates ſhall not be ſufficient to ſatisfie the ſaid reſpective Debts,) ſo far forth and in ſuch manner as ſhall be hereafter Declared and appointed by His Highneſſe the <hi>Lord Protector</hi> by and with the conſent of his Council.</p>
+            <p>Provided alſo, and it is further Ordained, that the ſeveral Perſons hereafter named, do pay unto His Highneſſe the <hi>Lord Protector</hi> his Publick Receipt, the ſeveral reſpective ſummes of mony hereafter mentioned and expreſſed, as a fine and fines, for and in reſpect of his and their eſtate and eſtates, to be paid in ſuch manner, and at ſuch times, as is hereafter in this Ordinance expreſſed, that is to ſay, <hi>David Leſley,</hi> late Lieutenant-General of the Scottiſh Army, four thouſand pounds ſterling. Marqueſſe of <hi>Douglas,</hi> One thouſand pounds ſterling. Lord <hi>Angus</hi> eldeſt ſon to the Marqueſſe of <hi>Douglas,</hi> one thouſand pounds ſterling. Earl of <hi>Selorig,</hi> one thouſand pounds ſterling. The Heir of <hi>Francis</hi> late Earl of <hi>Bucleugh</hi> deceaſed, Fifteen thouſand pounds ſterling. Earl of Gallo<g ref="char:EOLhyphen"/>way, Four thouſand pounds ſterling. <hi>William</hi> Earl of <hi>Roxburgh,</hi> ſix thouſand pounds ſterl. <hi>William</hi> Lord Cockeram, Five thouſand pounds ſterling. <hi>James</hi> Lord Forreſter, two thouſand five hundred pounds ſterl. <hi>Philip Amſtruther,</hi> ſon of Sir <hi>Robert Amſtruther;</hi> one thouſand marks ſterl. Sir <hi>Archibald Ster<g ref="char:EOLhyphen"/>ling</hi> of Carden, one thouſand five hundred pounds ſterling. <hi>James Drummond</hi> of Mackenſey, Five hundred pounds ſterling. <hi>Henry Mawl,</hi> ſon to the Earl of Pan<g ref="char:EOLhyphen"/>mure, two thouſand five hundred pounds ſterling. Sir <hi>James Levingſton</hi> of Kilſith, one thouſand five hundred pounds ſterling. <hi>William Murrey</hi> of Polemaiſe, one thouſand five hundred pounds ſterling. Earl of Buchane, one thouſand pounds ſterling. Viſcount Dudope, one thouſand five hundred pounds ſterling. <hi>Preſton</hi> of Craigmiller, one thouſand five hundred pounds ſterling. Sir <hi>Andrew Fleſher</hi> of Inner-Pether, Five thouſand pounds ſter<g ref="char:EOLhyphen"/>ling. Sir <hi>John Wauchith</hi> of Nethery, two thouſand pounds ſterling. Earl of Perth, and Lord Drummond his eldeſt ſon, Five thouſand pounds ſterling. <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Winton, two thouſand pounds ſterlng. Earl of Findlater, on thouſand five hundred pounds ſterling. Earl of Murrey three thouſand five hundred pounds ſterling. Earl of Quinsburgh, four thouſand pounds ſterling. Earl of Eithy, ſix thouſand pounds ſter<g ref="char:EOLhyphen"/>ling. Lord Duffus, one thouſand five hundred pounds ſterling. Lord Grey, one thouſand five hundred pounds ſterling. Sir <hi>Henry Nisbit,</hi> one thouſand pounds ſterling. Earl of Panmure, ten thouſand pounds ſterling. Laitd of Lundee, one thouſand pounds ſterling. Earl of Arroll, two thouſand pounds ſterling. Earl of Tullibardine, one thouſand five hundred pounds ſterling. Earl of Southesk, three thouſand pounds ſterling. Earl of Dalhouſie, one thouſand five hundred pounds ſterling. Earl of Hartfield, two thouſand pounds ſterling. <hi>William</hi> Lord <hi>Roſs,</hi> three thouſand pounds Sterling. Lord <hi>Sample,</hi> one thouſand pounds Sterling, Lord Elphinſton, one thouſand pounds ſterling. Lord <hi>Boyd,</hi> one thouſand five hundred pounds ſterling. <hi>Iames</hi> Lord Cooper, three thouſand pounds ſterling. Lord Balvaird, one thouſand five
+<pb facs="tcp:137266:3"/>hundred pounds ſterling. Lord <hi>Rollock,</hi> one thouſand pounds ſterling. Earl of <hi>Kinghorne,</hi> one thouſand pounds ſterling. Earl of <hi>Kinkardine,</hi> one thouſand pounds ſterling. Lord <hi>Bamfe,</hi> one thouſand pounds ſterling. Mr. <hi>Robert Meldrum,</hi> of <hi>Tillybody,</hi> one thouſand pounds ſterling. Sir <hi>Robert Graham,</hi> of <hi>Morphie,</hi> one thouſand pounds ſterling. Sir <hi>William Scot</hi> of <hi>Harden,</hi> three thouſand pounds ſterling. <hi>Hay</hi> of <hi>Nachton,</hi> one thouſand pounds ſterling. <hi>Renton</hi> of <hi>Lamberton,</hi> one thouſand pounds ſterling. <hi>Colquhoun</hi> of <hi>Luz,</hi> two thouſand pounds ſterling. <hi>Hamilton</hi> of <hi>Preſton,</hi> one thouſand pounds ſterling. Mr. <hi>Francis Hay</hi> of <hi>Bowſey,</hi> two thouſand pounds ſterling. <hi>Arnot</hi> of <hi>Ferney,</hi> two thouſand pounds ſterling. Sir <hi>Robert Forquhar,</hi> one thouſand pounds ſterling. Sir <hi>Francis Reven,</hi> three thouſand pounds ſterling. <hi>Scot</hi> of <hi>Montroſſe,</hi> three thouſand pounds ſterling. Laird of <hi>Rotheme-Gordon,</hi> five hundred pounds ſterling. <hi>Colerney,</hi> the younger, one thouſand pounds ſterling. Sir <hi>John Scot</hi> of <hi>Scots-Tarbut,</hi> one thouſand five hundred pounds ſterling. Laird of <hi>Gosford</hi> one thouſand pounds ſter<g ref="char:EOLhyphen"/>ling. Laird of <hi>Bachilton,</hi> one thouſand five hundred pounds ſterling. <hi>James Mercer</hi> of <hi>Aldey,</hi> one thouſand pounds ſterling. Earl of <hi>Rothes</hi> one thouſand pounds ſterling. Lieutenant Collonel <hi>Elliot</hi> of <hi>Stebbs,</hi> one thouſand pounds ſterling. Sir <hi>Lewis Stuart,</hi> Advocate, one thouſand pounds ſterling. <hi>Pa<g ref="char:EOLhyphen"/>trick Scot</hi> of <hi>Thirleſtone,</hi> two thouſand pounds ſterling. Sir <hi>James Caimeghill,</hi> two thouſand pounds Sterling. Sir <hi>Patrick Cockburn</hi> of <hi>Clarkington,</hi> two thou<g ref="char:EOLhyphen"/>ſand pounds ſterling. Sir <hi>George Moriſon</hi> of <hi>Preſton-Grange,</hi> two thouſand pounds ſterling. <hi>Murrey,</hi> Laird of <hi>Stanhop,</hi> ſon to Sir <hi>David Murrey</hi> de<g ref="char:EOLhyphen"/>ceaſed, two thouſand pounds ſterling. All and every which ſum and ſums of money, ſhall be paid unto <hi>George Bilton,</hi> Deputy Treaſurer at <hi>Leith,</hi> one moye<g ref="char:EOLhyphen"/>tie thereof, on, or by the ſecond day of <hi>Auguſt,</hi> One thouſand ſix hundred fifty four; and the other moyetie, on, or by the ſecond day of <hi>December,</hi> then next enſuing; and in default of ſuch payment, all and every the real and perſonall Eſtate of every perſon and perſons ſo making default, ſhall from thenceforth be abſo<g ref="char:EOLhyphen"/>lutely confiſcate; and the Commiſſioners for Sequeſtrations are hereby impowred to ſeiz the ſame accordingly.</p>
+            <p>Provided alwayes, and it is Ordeined and Declared by the Authority aforeſaid, That this Ordinance or any thing therein conteined, ſhall not extend, or be conſtrued to extend to the reſtoring or reviving of any Lordſhip, Dominion, Juriſdiction, Tenure, Superioritie, or any things whatſoever, taken away and aboliſhed by one other Ordinance; Entituled, <hi>An Ordinance for <g ref="char:V">Ʋ</g>niting</hi> SCOTLAND <hi>into one Common-Wealth with</hi> ENGLAND.</p>
+            <p>Excepted and alſo reſerved out of this preſent Ordinance, and all benefit thereof, all and every other perſon and perſons, not herein before named or expreſſed, that hath, or have been at any time ſince the firſt day of <hi>May,</hi> one thouſand ſix hundred fifty and two, or now is, or are in Arms in <hi>Scotland,</hi> in oppoſition to this Com<g ref="char:EOLhyphen"/>monwealth, Saving and reſerving to all perſon and perſons whatſoever, excepted out of this Ordinance, all benefits and advantages of any Articles of War, to them granted by His Highneſſe, the now <hi>Lord Protector,</hi> as Generall of all the Forces of this Commonwealth, or any other, by Virtue of any Authority from him derived, any thing in this Ordinance conteined to the contrary thereof in any wiſe notwithſtanding.</p>
+            <p>Provided alwayes, and be it further Ordained, That this Ordinance, or any thing therein contained, ſhall not extend, nor be conſtrued to extend, to the freeing or diſcharging of any Priſoner or Priſoners of War, from their reſpective impriſonments, or to the cancelling or diſcharging of any Surety, Bond, Paroll, or Engagement, of, or for any Priſoner at War, without the ſpecial Order of His Highneſſe the <hi>Lord Protector,</hi> or whom he ſhall appoint.</p>
+            <p>Provided alſo, That this Ordinance, or any thing therein contained, ſhall not extend, nor be conſtrued to extend to the confirming of any Patent, Gift, or Grant made by the late King <hi>James,</hi> or the late King <hi>Charls,</hi> whereby any Rent or other duty or Revenew belonging to the Crown of <hi>Scotland,</hi> hath, contrary to the Law of <hi>Scotland</hi> been altered, changed, converted or diminiſhed; but that all and every ſuch Rent, Dutie and Revenew, ſhall remain, and be paid in kind unto the <hi>Lord Protector,</hi> and his Succeſſors in the ſame manner, as the ſame were paid before any ſuch Patent, Gift, or Grant made.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <date>Wedneſday <hi>12.</hi> April, <hi>1654.</hi>
+               </date>
+            </opener>
+            <p>ORdered by His Highneſs the <hi>LORD PROTECTOR</hi> and the <hi>COUNCIL,</hi> that this Ordinance be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Henry Scobel, <hi>Clerk of the Council,</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London,</hi> and re-printed at <hi>Leith,</hi> 1654.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
